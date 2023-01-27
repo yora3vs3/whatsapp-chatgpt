@@ -42,3 +42,4 @@ The bot only responds to messages that are received by you, not sent.
 ## Used libraries
 - https://github.com/pedroslopez/whatsapp-web.js
 - https://github.com/transitive-bullshit/chatgpt-api
+q
